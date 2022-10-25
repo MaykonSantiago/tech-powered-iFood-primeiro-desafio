@@ -1,0 +1,30 @@
+Java básico:
+    https://glysns.gitbook.io/java-basico
+
+Estruturas de Repetição e Arrays em Java:
+    https://github.com/cami-la/loops-e-arrays
+
+Entendendo Métodos Java:
+    https://docs.google.com/presentation/d/1InCKAqx_Vocw9BxN95JTtcDpPnredEOa/edit#slide=id.g14ad4599b4e_14_0
+
+Programação Orientada a Objetos:
+    https://docs.google.com/presentation/d/1k5syUGWVoY8yJ2cDLHwhrR0kDBUUG5Ay/edit#slide=id.p2
+
+Trabalhando com Collections Java:
+    https://github.com/cami-la/curso-dio-intro-collections
+
+Tratamento de exceção:
+    https://github.com/cami-la/exceptions-java
+
+Principais Protocolos de Comunicação da Internet
+    https://drive.google.com/file/d/1IeS6XI7uc3Xy3X7kA2rgjKHClwxeP3hR/view
+
+
+Gerenciamento de Dependências e Build em Java com Maven:
+    https://docs.google.com/presentation/d/1wudqWaBDK40QnBAYjuh4Q65dcC2wqLW_/edit#slide=id.p2
+
+Spring Framework:
+     https://glysns.gitbook.io/spring-framework/
+
+
+
